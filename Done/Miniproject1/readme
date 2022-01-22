@@ -1,0 +1,8 @@
+
+To run the program :
+
+- install required libraries (requirements.txt (included ) )
+- A directory for images as "ImagesAttendance " which acts as database 
+- A .csv file to store the record of attendance (Attendance.csv)
+
+
